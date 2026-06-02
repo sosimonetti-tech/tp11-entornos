@@ -1,7 +1,7 @@
 import pandas as pd
 
 datos = pd.DataFrame({
-    "nombre": ["Ana", "Juan"],
+    "nombre": ["Ana", "Juan", "Ricardo"],
     "edad": [20, 25]
 })
 
